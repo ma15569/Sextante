@@ -1,2 +1,2 @@
-# Sextante-JTS17
-Sextante GIS recompiled with JTS Topology Suite 19
+# Sextante
+Sextante GIS recompiled with JTS Topology Suite 1.17.0
